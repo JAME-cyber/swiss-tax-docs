@@ -1,0 +1,43 @@
+CANTON DE VAUD
+ADMINISTRATION CANTONALE DES IMPÔTS
+Office des impôts — District de Lausanne
+
+DÉCISION DE TAXATION
+Impôt cantonal et communal / Impôt fédéral direct
+Personne physique
+
+Période fiscale : 2024
+N° de contribuable : 123-456-789
+Contribuable : DUPONT Jean (contribuable unique)
+Adresse : Rue de la Gare 12, 1000 Lausanne
+
+----- IMPÔT CANTONAL ET COMMUNAL -----
+
+Revenu
+Revenu brut ..............................................     118'400.00
+Déductions ...............................................      23'400.00
+Revenu imposable .........................................      95'000.00
+
+Fortune
+Actif imposable ..........................................     265'000.00
+Dettes ...................................................      55'000.00
+Fortune nette imposable ..................................     210'000.00
+
+Impôt
+Impôt de base sur le revenu ..............................       9'740.00
+Coefficient cantonal (0.850) .............................       8'279.00
+Impôt cantonal ...........................................       8'279.00
+Coefficient communal (0.770) .............................       7'499.83
+Impôt communal ...........................................       7'499.83
+Impôt paroissial .........................................         620.25
+Total impôt sur le revenu (cantonal et communal) .........      16'399.08
+Impôt sur la fortune .....................................         410.60
+Acomptes versés ..........................................      14'000.00
+Solde dû .................................................       6'859.68
+
+----- IMPÔT FÉDÉRAL DIRECT -----
+
+Revenu imposable IFD .....................................     102'300.00
+Impôt fédéral direct .....................................       4'050.00
+
+Taxation définitive. Délai de réclamation : 30 jours dès notification.
